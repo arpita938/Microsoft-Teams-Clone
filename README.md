@@ -1,4 +1,4 @@
 # Welcome to MS Teams Clone!
-Welcome to MS Teams Clone!
-<br>This is a Microsoft Teams clone built with React JS and [Chat Engine]
+<b>Welcome to MS Teams Clone!</b>
+<br>This is a Microsoft Teams clone built with <b>React JS</b> and <b>Chat Engine</b>.
 
